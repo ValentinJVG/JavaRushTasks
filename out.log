@@ -16387,3 +16387,7 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2021-07-26 22:57:26 INFO  ApacheHttpClient.publish(442) - compile responseCode = 200
 2021-07-26 22:57:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2021-07-26 22:57:54 INFO  ApacheHttpClient.completed(26) - publish responseCode =  200
+2021-07-26 23:56:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-07-26 23:56:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-07-26 23:56:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-07-26 23:56:33 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
