@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;out.log">
-      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/GameObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/SnakeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Direction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/SnakeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/SnakeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -25,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -575,7 +575,13 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1627365753549</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;out.log">
+      <created>1627370920645</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1627370920645</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
