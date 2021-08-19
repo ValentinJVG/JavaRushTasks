@@ -14,6 +14,6 @@ public class Solution {
     }
 
     public static String add(int a, int b) {
-        return a + '+' + b + '=' + (a + b) + "";
+        return a + "+" + b + "=" + (a + b) + "";
     }
 }
