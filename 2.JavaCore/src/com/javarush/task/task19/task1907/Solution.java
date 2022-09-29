@@ -4,18 +4,41 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 /* 
 Считаем слово
 */
 
 public class Solution {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    private static int counter = 0;
 
+    public static void main(String[] args) throws IOException {
 
-        scanner.close();
+        String fileName;
+
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
+            fileName = br.readLine();
+        }
+
+        StringBuilder text = new StringBuilder();
+        try (FileReader reader = new FileReader(fileName)) {
+            char currentChar;
+            while (reader.ready()) {
+                currentChar = (char) reader.read();
+                text.append(currentChar);
+
+            }
+        }
+
+        String replacedString = text.toString().replaceAll("\\p{P}", " ").replaceAll("\\s", " ");
+
+        for (String x : replacedString.split(" ")) {
+            if (x.equals("world")) {
+                counter++;
+            }
+        }
+
+        System.out.println(counter);
+
     }
-
 }
