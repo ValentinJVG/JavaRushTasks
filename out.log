@@ -9141,3 +9141,4 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-10-06 15:22:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2022-10-06 15:22:39 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2022-10-06 15:22:39 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/valentinj/OneDrive - Diapol Granite OÜ/Desktop/SDA/JavaRushLena/JavaRushTasks/2.JavaCore/src/com/javarush/task/task18/task1828
+2022-10-06 15:33:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
