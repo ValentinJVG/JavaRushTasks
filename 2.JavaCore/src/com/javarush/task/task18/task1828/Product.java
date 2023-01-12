@@ -15,13 +15,9 @@ public class Product {
 
     @Override
     public String toString() {
-        return "Product{" +
-                "id=" + id +
-                ", productName='" + productName + '\'' +
-                ", price=" + price +
-                ", quantity=" + quantity +
-                '}';
+        return String.format("%-8d%-30s%-8s%-4s", id, productName, price, quantity);
     }
+
 
     public static Product getProduct(String s) {
         String id = s.substring(0, 8).trim();
