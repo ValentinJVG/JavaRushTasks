@@ -9627,3 +9627,51 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2023-01-12 11:39:12 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2023-01-12 11:39:12 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2023-01-12 11:39:12 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-12 11:55:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-12 11:55:46 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-12 11:55:57 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-12 11:55:57 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/valentinj/OneDrive - Diapol Granite OÜ/Desktop/SDA/JavaRushLena/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1926
+2023-01-12 11:56:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-12 11:56:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-12 11:56:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-20 14:56:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:21:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:21:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-20 15:21:32 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-20 15:21:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:21:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-20 15:21:58 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-20 15:21:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-20 15:22:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:22:06 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-20 15:22:09 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-20 15:22:09 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/valentinj/OneDrive - Diapol Granite OÜ/Desktop/SDA/JavaRushLena/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1922
+2023-01-20 15:22:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:22:14 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-20 15:22:16 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-20 15:24:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:32:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:32:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-20 15:32:59 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-20 15:33:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:33:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-20 15:33:16 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-20 15:33:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-20 15:33:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-20 15:33:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-20 15:33:33 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-20 15:33:33 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/valentinj/OneDrive - Diapol Granite OÜ/Desktop/SDA/JavaRushLena/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1925
+2023-01-20 15:34:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-30 15:23:35 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-01-30 15:23:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-30 15:23:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-30 15:23:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-30 15:23:36 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-02-13 14:19:54 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-02-13 14:19:54 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-02-13 14:19:54 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-02-13 14:19:54 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-02-13 14:19:54 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-02-13 14:19:54 INFO  ApacheHttpClient.startGA(36) - GAService started.
